@@ -8,8 +8,11 @@
     padding: 1px;
     border-top: #f8fafc 1px;
     border-bottom: #f8fafc 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
 }
 
+/* LOGO y titulo de navbar */
 .container-logo{
     display: flex;
 }
@@ -23,6 +26,17 @@
     border-radius: 50%;
 }
 .text-bar{
-    font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
+}
+
+/* links */
+
+.links {
+    margin: auto;
+}
+
+.link-bar{
+    text-decoration: none;
+    color: #64748b;
+    margin: 10px;
 }
