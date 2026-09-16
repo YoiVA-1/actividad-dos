@@ -101,3 +101,11 @@
     margin:60px 90px ;
     border-radius: 20px;
 }
+
+.cards {
+    display: flex;
+}
+
+.card img{
+    height: 300px;
+}
